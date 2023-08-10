@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "name": "Trần trung ",
+      "description": "Đẹp try học giỏi bị tạch môn",
+      "quantity": 100,
+      "origin": "Trung quốc",
+      "id": 1
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 2
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 3
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 4
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 5
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 6
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 7
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 8
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 9
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 10
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 11
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 12
+    },
+    {
+      "name": "thang",
+      "description": "abc",
+      "quantity": 10,
+      "origin": "Trung quoc",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "name": "123",
+      "description": "12",
+      "quantity": 12,
+      "origin": "Thai lan"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
